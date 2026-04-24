@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f3ZxPRSdeM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\me\\source\\repos\\gamelogger\\gamelogger\\gamelogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\me\\.nuget\\packages\\system.io.pipelines\\10.0.6\\system.io.pipelines.10.0.6.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\system.text.encodings.web\\10.0.6\\system.text.encodings.web.10.0.6.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\system.text.json\\10.0.6\\system.text.json.10.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
